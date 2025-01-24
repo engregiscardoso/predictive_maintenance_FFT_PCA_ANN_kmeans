@@ -15,6 +15,8 @@ The dataset is provided in the directory and consists of the following npy files
 - `z_1500_10.npy`: Contains the acquisition of accelerometers on the Z axis.
 - `gt_1500_10.npy`: Contains the labels.
 
+The link for data download is: https://drive.google.com/drive/folders/1_fb-JlmjSWy37YHyJvXUJ5Yyt2GsWxjg?usp=sharing
+
 ## Notebook
 
 The analysis is conducted in a python:

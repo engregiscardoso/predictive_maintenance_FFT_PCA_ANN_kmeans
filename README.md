@@ -1,6 +1,6 @@
-# Elevating Rotating Machinery Fault Analysis: A Multifaceted Strategy with FFT, PCA, CNN and K-means
+# Elevating Rotating Machinery Fault Analysis: A Multifaceted Strategy with FFT, PCA, ANN and K-means
 
-This repository contains the link data and code used in the article "Elevating Rotating Machinery Fault Analysis: A MultifacetedStrategy with FFT, PCA, CNN and K-means". 
+This repository contains the link data and code used in the article "Elevating Rotating Machinery Fault Analysis: A MultifacetedStrategy with FFT, PCA, AMM and K-means". 
 
 ## Introduction
 
